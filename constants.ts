@@ -1,14 +1,8 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
-// Project: folio
-// Author contact: https://www.linkedin.com/in/alphaayush/
-// This file is licensed under the MIT License.
-// License text available at https://opensource.org/licenses/MIT
-
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Md Nahid Prawez",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+  siteUrl: "https://nahid.fokatguru.in",
 };
 
 export const MENULINKS = [
@@ -36,23 +30,23 @@ export const MENULINKS = [
 
 export const TYPED_STRINGS = [
   "I design and develop things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
-  "I design and develop motion",
+  "I develop full stack web apps",
+  "I develop apps for Shopify",
+  "I develop mobile apps",
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "nahid.prawez@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/mdnahidprawez/",
+  github: "https://github.com/nahidprawez",
+  // medium: "#",
+  instagram: "https://www.instagram.com/nahidp_official/",
+  facebook: "https://www.facebook.com/mdnahidprawez",
+  // dribbble: "#",
+  // behance: "#",
+  twitter: "https://twitter.com/nprawez",
+  topmate: "https://topmate.io/md_nahid_prawez",
 };
 
 export interface IProject {
